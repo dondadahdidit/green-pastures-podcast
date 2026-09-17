@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green Pastures Daily</title>
+    <link>https://dondadahdidit.github.io/green-pastures-podcast/</link>
+    <language>en-us</language>
+    <description>A daily spoken reading of a full Bible chapter (King James Version), read slowly and clearly to help you rest, reflect, and hear God's Word beside still waters.</description>
+    <itunes:author>Green Pastures Daily</itunes:author>
+    <itunes:owner><itunes:name>Green Pastures Daily</itunes:name><itunes:email>mr.nickchilds@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://dondadahdidit.github.io/green-pastures-podcast/artwork.jpg" />
+    <image><url>https://dondadahdidit.github.io/green-pastures-podcast/artwork.jpg</url><title>Green Pastures Daily</title><link>https://dondadahdidit.github.io/green-pastures-podcast/</link></image>
+    <itunes:category text="Religion &amp; Spirituality" />
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://dondadahdidit.github.io/green-pastures-podcast/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
